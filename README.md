@@ -6,4 +6,4 @@
 - **move cursor up and extend.** shift + alt + up / down
 - **trace a focused variable.** shift + ctrl + up / down
 - **rename current variable.** F2
-- **extract a method.** refactoring - extract method
+- **extract a method.** ctrl + R + M (refactoring - extract method)
