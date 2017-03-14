@@ -7,3 +7,4 @@
 - **trace a focused variable.** shift + ctrl + up / down
 - **rename current variable.** F2
 - **extract a method.** ctrl + R + M (refactoring - extract method)
+- **external tools.** [tools] - [external tools]
