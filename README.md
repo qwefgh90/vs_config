@@ -9,3 +9,4 @@
 - **extract a method.** ctrl + R + M (refactoring - extract method)
 - **external tools.** [tools] - [external tools]
 - **implements all of a interface.** - right click on a interface - [implements a interface]
+- **run and trace from entry point.** - F11
