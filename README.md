@@ -10,3 +10,4 @@
 - **external tools.** [tools] - [external tools]
 - **implements all of a interface.** - right click on a interface - [implements a interface]
 - **run and trace from entry point.** - F11
+- **remove current line.** - ctrl + L
